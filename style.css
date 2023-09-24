@@ -1,0 +1,62 @@
+*{background-color: aqua;}
+.title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color:darkblue;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.lasagna{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:aqua;
+    color:darkgrey;
+    margin: 50px 100px;
+    color: darkblue;
+}
+.pasta{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:aqua;
+    color:darkgray;
+    margin: 50px 100px;
+    color:darkblue;
+
+}
+.text{
+    text-decoration: solid;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 18px;
+    font:bold;
+    color: crimson;
+    margin: 20px 20px;
+}
+.ingredientes{
+    margin: 60px;
+    color:darkblue;
+    font-size: 20px;
+    text-align: center;
+    width: max-content;
+    margin-left: 580px;
+}
+.preparacion{
+    margin:60px;
+    color:darkblue;
+    font-size: 20px;
+    text-align: center;
+    width: max-content;
+    margin-left: 510px;
+}
+li{
+    color:slateblue;
+    margin: 10px;
+}
+.images{
+    text-align: center;
+    border: 3px solid darkblue;
+    width: max-content;
+    height:max-content;
+    margin-left: 250px;
+}
